@@ -21,7 +21,7 @@ repository               : "staticmeteor/staticmeteor.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "moon.jpg"
   name             : "Static Meteor"
   pronouns         : # example: "she/her"  
   bio              : "I just do stuff I am interested about"
